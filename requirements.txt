@@ -1,1 +1,5 @@
-
+fastAPI
+TensorFlow (usate python 3.11)
+Pillow 
+NumPy 
+uvicorn
